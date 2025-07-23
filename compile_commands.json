@@ -1,0 +1,23 @@
+[
+  {
+    "arguments": [
+      "/usr/sbin/gcc",
+      "-c",
+      "-Wall",
+      "-std=c99",
+      "-D_DEFAULT_SOURCE",
+      "-Wno-missing-braces",
+      "-Wunused-result",
+      "-Wextra",
+      "-Wmissing-prototypes",
+      "-Wstrict-prototypes",
+      "-Iraylib/src",
+      "-o",
+      "build/jrrom-parkour",
+      "src/main.c"
+    ],
+    "directory": "/home/jrrom/Projects/jrrom-parkour",
+    "file": "/home/jrrom/Projects/jrrom-parkour/src/main.c",
+    "output": "/home/jrrom/Projects/jrrom-parkour/build/jrrom-parkour"
+  }
+]

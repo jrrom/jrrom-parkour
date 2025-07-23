@@ -1,0 +1,9 @@
+* Todos
+
+- [ ] Create working buttons
+- [ ] Implement collisions
+- [ ] Implement gravity and basic physics
+- [ ] Changing speed naturally
+- [ ] Implement crouching
+- [ ] Level selection
+- [ ] Level saving
