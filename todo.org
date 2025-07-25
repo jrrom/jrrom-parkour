@@ -1,9 +1,6 @@
 * Todos
 
-- [ ] Create working buttons
-- [ ] Implement collisions
-- [ ] Implement gravity and basic physics
-- [ ] Changing speed naturally
-- [ ] Implement crouching
-- [ ] Level selection
+- [ ] Respawn at centre
+- [ ] Current level loading
+- [ ] Level completion
 - [ ] Level saving
